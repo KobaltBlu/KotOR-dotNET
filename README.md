@@ -7,6 +7,6 @@ The files have been pulled from a larger project I am working on so you will hav
 
 # Special Thanks to
 * The KotOR Modding Community
-* Xoreos (This project has been crucial for me to better understand what is currently known on the MDL & MDX file formats)
+* xoreos (This project has been crucial for me to better understand what is currently known on the MDL & MDX file formats)
 * cchargin for their work on cracking the MDL & MDX format
 * And many more!
